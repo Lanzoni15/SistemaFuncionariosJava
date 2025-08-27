@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Funcionários em Java
 
 Este projeto é um sistema simples para cadastrar diferentes tipos de funcionários de uma empresa e calcular seus salários finais com base em bônus específicos.
@@ -42,3 +43,6 @@ Este projeto é um sistema simples para cadastrar diferentes tipos de funcionár
 ## Autor
 
 Arthur Lanzoni
+=======
+# SistemaFuncionariosJava
+>>>>>>> 03d5b00efae48215b56eebe70b7b7cdc6f1f2d4e
